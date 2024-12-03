@@ -1,0 +1,14 @@
+# Logs
+logs
+venv
+venv/
+venv/*
+node_modules
+dist
+dist-ssr
+*.local
+# Ignore all virtual environments
+**/venv/
+# Ignore Python virtual environment
+venv/
+venv/*
